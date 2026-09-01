@@ -125,8 +125,10 @@ SimpleHillClimbing()
 
 <h3>Output:</h3>
 
-![alt text](Output-img/output1.png)
-![alt text](Output-img/output2.png)
+<img width="812" height="72" alt="output1" src="https://github.com/user-attachments/assets/4a5fd109-67a7-42f8-bca9-a0e7e98b932a" />
+
+<img width="436" height="665" alt="output2" src="https://github.com/user-attachments/assets/ca13560d-4c97-4921-a149-e3a28d6039c0" />
+
 
 <hr>
 
