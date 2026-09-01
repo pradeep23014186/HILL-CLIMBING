@@ -65,8 +65,8 @@ Score: 0  Solution :  Artificial Intelligence<br>
 <h3>Program:</h3>
 
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep Kumar G
+Register No. : 212223230150
 ```
 ```py
 # Hill Climbing Program
